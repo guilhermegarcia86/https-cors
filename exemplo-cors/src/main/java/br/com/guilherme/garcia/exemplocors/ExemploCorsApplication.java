@@ -9,4 +9,6 @@ public class ExemploCorsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExemploCorsApplication.class, args);
 	}
+	
+	
 }
